@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(25, 180, 180);
+
+}
+
+
+
+.top{
+    background-color: #282c34;
+    color: darkgray;
+    display: flex;
+    justify-content: center;
+    margin: -8px;
+    box-shadow: 2px 2px 3px 3px rgba(0,0,0,0.75);
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.btn_container{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.btn{
+    font-family: 'Merriweather Sans', sans-serif;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px 3px rgba(0,0,0,0.75);
+    font-size: 1.5em;
+    color: aliceblue;
+    background-color: #282c34;
+    padding:1em;
+    margin: 1em;
+    /*border: 2px solid #fff;*/
+    display: inline-block;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    
+
+}
+
